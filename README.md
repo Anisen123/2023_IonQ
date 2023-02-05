@@ -44,3 +44,5 @@ To run the algorithm yourself, run this notebook: team_solutions/Entanglement5/m
 
 team_solutions/Entanglement5/finch_functions.py contains the functions building and running the quantum circuits. 
 team_solutions/Entanglement5/visualization.py contains the functions creating images and visualizing the finches.
+
+Find our blog post at: https://finchesentangled5.wordpress.com/2023/01/29/game-of-finches/
